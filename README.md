@@ -12,6 +12,11 @@ This project focuses on understanding:
 
 ---
 
+## 📊 Dashboard Preview
+![Dashboard Preview](dashboard-preview.png)
+
+---
+
 ## 🗂 Database Schema Overview
 The analysis is based on an e-commerce database consisting of **5 tables**:
 
